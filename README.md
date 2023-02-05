@@ -3,6 +3,7 @@ IOT Based Automatic Bottle Filling and Capping System - University Project
 
 Using two mircocontroller Arduino and ESP8266, Arduino to control the process of detecting bottle through IR sensor for both filling and capping process. ESP8266 is used to read data from Arduino pins to get the status(such as bottle counts, status of filling and cappting motors) of the process and display them on the web server hosted by ESP8266 on local network 
 
+### Refer [Project Report](https://github.com/paulbobin/IOT-Based-Automatic-Bottle-Filling-and-Capping-System/blob/main/Project%20Report.pdf) for detail information
 
 ## Bottle Filling Output
 ![Picture 25](https://user-images.githubusercontent.com/31591304/216818734-fd811cef-5686-4b2b-af78-cad6170ee212.jpg)
